@@ -4,7 +4,7 @@ public class BBBBBB {
    
 	
    public static void main(String[] args) {
-	System.out.println("stage。。。");
+	System.out.println("stage2222222。。。");
 }
 	
 	
